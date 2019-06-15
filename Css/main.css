@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Roboto&display=swap');
+
+.image
+{
+    height: 50vh;
+    background-color: #444d3d;
+}
+
+.Border
+{
+    width: 80%;
+    margin-top: -15%;
+}
+
+a.nav-link
+{
+    color: #fff !important;
+}
+
+h1, h2, h3, h4
+{
+    font-family: 'Roboto', sans-serif;
+
+    margin: 5px 0;
+}
+
+p, li{
+    font-family: 'Arvo', sans-serif;
+    margin: 5px 0;
+}
